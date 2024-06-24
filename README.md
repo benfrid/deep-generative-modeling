@@ -1,1 +1,1 @@
-# deep-generative-modeling
+# Deep Generative Modeling
